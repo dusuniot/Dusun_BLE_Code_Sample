@@ -1,5 +1,5 @@
 # Dusun BLE code sample  
-	This is a project containing code samples for Dusun IoT gateway BLE connection.  
+	This is a project containing code samples which use Bluez Dbus APIs for Dusun IoT gateway BLE connections .  
 
 ## Tutorial:  
 	1. edit the makefile, enter the correct corsstool env  
